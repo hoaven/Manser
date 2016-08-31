@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/Manser/!svn/ver/173/Manser/src/com/kakanshun/server/impl
+END
+UserServerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Manser/!svn/ver/3/Manser/src/com/kakanshun/server/impl/UserServerImpl.java
+END
+F1ServerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/Manser/!svn/ver/3/Manser/src/com/kakanshun/server/impl/F1ServerImpl.java
+END
+CommonServerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Manser/!svn/ver/173/Manser/src/com/kakanshun/server/impl/CommonServerImpl.java
+END
+GridServerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/Manser/!svn/ver/3/Manser/src/com/kakanshun/server/impl/GridServerImpl.java
+END
+RecordServerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/Manser/!svn/ver/3/Manser/src/com/kakanshun/server/impl/RecordServerImpl.java
+END

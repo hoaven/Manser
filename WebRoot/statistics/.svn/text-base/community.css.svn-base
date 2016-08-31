@@ -1,0 +1,158 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+.navbar,.container-fluid{
+    background:rgba(27,106,170,1);
+}
+.navbar-brand{
+    color: #fff;
+    font-size:30px;
+    margin-right: 10px;
+}
+.navbar-header a:hover{
+    color: #ffffff;
+}
+
+.navbar-collapse{
+    color: #fff;
+    font-size: 15px;
+}
+
+#carousel1{
+    width: 1140px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.carousel-control.left {
+    background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0) 100%);
+    background-image: -o-linear-gradient(left, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, .0001) 100%);
+    background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0)));
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0) 0, rgba(0, 0, 0, 0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1);
+    background-repeat: repeat-x;
+}
+.carousel-control.right {
+    right: 0;
+    left: auto;
+    background-image: -webkit-linear-gradient(left,rgba(0,0,0,0) 0,rgba(0,0,0,0) 100%);
+    background-image: -o-linear-gradient(left,rgba(0,0,0,0) 0,rgba(0,0,0,0) 100%);
+    background-image: -webkit-gradient(linear,left top,right top,from(rgba(0,0,0,0)),to(rgba(0,0,0,0)));
+    background-image: linear-gradient(to right,rgba(0,0,0,0) 0,rgba(0,0,0,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1);
+    background-repeat: repeat-x;
+}
+
+.navbar-header {
+	font-size:18px
+}
+
+.nav{
+    height:3%;
+}
+
+#navigation, #navigation li ul {
+    list-style-type:none;
+    z-index: 1;
+}
+
+#navigation li {
+    float:left;
+    text-align:center;
+    position:relative;
+
+}
+#navigation li a:link, #navigation li a:visited {
+    display:block;
+    text-decoration:none;
+    color:#fff;
+    width:179px;/*导航项的宽度*/
+    height:40px;
+    font-weight: bold;
+    line-height:40px;
+    border:1px solid #fff;
+    border-width:1px 1px 0 0;
+    background:rgba(27,106,170,0.8);
+    padding-left:5px;
+}
+#navigation li a:hover {
+    color:#fff;
+    background:rgba(27,106,170,0.5);
+
+}
+#navigation li ul li a:hover {
+    color:#fff;
+    background:rgba(27,106,170,0.5);
+}
+#navigation li ul {
+    display:none;
+    position:absolute;
+    top:40px;
+    left:0;
+    margin-top:0px;/*上下两个中间的高度*/
+    width:120px;
+}
+#navigation li ul li ul {
+    display:none;
+    position:absolute;
+    top:0px;
+    left:162px;/*导航三级菜单到二级菜单的距离*/
+    margin-top:0;
+    margin-left:15px;
+    width:60px;
+}
+
+.section{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 105px;
+}
+.form-group span{
+    font-size: 18px;
+    color: #337ab7;
+}
+#mytab li{
+    list-style-type:none;
+    position:relative;
+    float: left;
+
+}
+#mytab li a{
+    font-size: 18px;
+    font-weight: bold;
+    color: #337ab7;
+}
+
+#mytab li a:link,#mytab li a:visited{
+    text-decoration: none;
+    padding-left:50px;
+
+}
+#mytab li a:hover{
+    text-decoration: underline;
+}
+[class="col-md-3"] {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+table{
+    margin-top: 20px;
+}
+footer{
+    height: 100px;
+    text-align: center;
+    padding-top: 20px;
+    color:rgba(81, 84, 103, 0.55) ;
+    background:rgba(27,106,170,0.2);
+    /*border-top: 1px solid rgba(81, 84, 103, 0.15);*/
+}
+footer span{
+    color:rgba(81, 84, 103, 0.55) ;
+}
+
+.count {
+	font-size:18px;
+	line-height:2
+}

@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+
+.form_content {
+	width: 575px;
+	margin: 30px auto;
+	padding: 10px;
+}
+
+.form-row {
+	float: left;
+	padding: 5px 5px 5px 5px;
+}
+
+.field-label {
+	width: 150px;
+	float: left;
+	line-height: 25px;
+	font-family: 宋体;
+	font-size: 18px;
+	color: #000000;
+}
+
+.field-widget {
+	float: left;
+}

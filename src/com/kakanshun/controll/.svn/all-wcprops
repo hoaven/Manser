@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/Manser/!svn/ver/177/Manser/src/com/kakanshun/controll
+END
+ShowAllDelPeopleServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/Manser/!svn/ver/93/Manser/src/com/kakanshun/controll/ShowAllDelPeopleServlet.java
+END
+LoginServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Manser/!svn/ver/3/Manser/src/com/kakanshun/controll/LoginServlet.java
+END
+GrServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/Manser/!svn/ver/90/Manser/src/com/kakanshun/controll/GrServlet.java
+END
+LimitServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Manser/!svn/ver/163/Manser/src/com/kakanshun/controll/LimitServlet.java
+END
+ShowServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Manser/!svn/ver/177/Manser/src/com/kakanshun/controll/ShowServlet.java
+END
+CrudServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Manser/!svn/ver/3/Manser/src/com/kakanshun/controll/CrudServlet.java
+END
+AdminServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Manser/!svn/ver/173/Manser/src/com/kakanshun/controll/AdminServlet.java
+END
+CountServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Manser/!svn/ver/93/Manser/src/com/kakanshun/controll/CountServlet.java
+END
+AjaxServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Manser/!svn/ver/106/Manser/src/com/kakanshun/controll/AjaxServlet.java
+END
+DetailServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/Manser/!svn/ver/93/Manser/src/com/kakanshun/controll/DetailServlet.java
+END
+ShowAllPeopleServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/Manser/!svn/ver/93/Manser/src/com/kakanshun/controll/ShowAllPeopleServlet.java
+END

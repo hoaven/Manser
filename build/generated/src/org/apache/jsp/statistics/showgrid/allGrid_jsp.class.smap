@@ -1,0 +1,17 @@
+SMAP
+allGrid_jsp.java
+JSP
+*S JSP
+*F
++ 0 allGrid.jsp
+statistics/showgrid/allGrid.jsp
+*L
+1,68:55
+69:123,3
+70,12:126
+81:162,12
+82:174
+83,7:175,3
+90,2:196
+91,4:140
+*E

@@ -1,0 +1,10 @@
+key名称				value含义
+ward				操作的片区名称
+community			操作的社区名称
+grid				操作的网格名称
+obj					操作对象（包括中共黄石港区委统战部）
+areagrid			片区--社区--网格分布情况
+type				选择表的类型（人员类型）
+f1--f13				13种类别的人数
+page				查找的页记录（List<People>）
+c					main.jsp包含的jsp路径
